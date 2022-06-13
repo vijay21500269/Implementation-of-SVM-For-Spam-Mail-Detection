@@ -46,7 +46,8 @@ accuracy
 ~~~
 
 ## Output:
-![SVM For Spam Mail Detection](sam.png)
+## Data head:
+![pic 1]()
 
 
 ## Result:
