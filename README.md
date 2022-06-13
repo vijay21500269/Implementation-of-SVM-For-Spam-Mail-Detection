@@ -52,6 +52,8 @@ accuracy
 ![pic 2](https://github.com/vijay21500269/Implementation-of-SVM-For-Spam-Mail-Detection/blob/main/data%20info.png)
 ## Data isnull:
 ![pic 3](https://github.com/vijay21500269/Implementation-of-SVM-For-Spam-Mail-Detection/blob/main/Data%20isnull.png)
+## Y_pred:
+![pic 4](https://github.com/vijay21500269/Implementation-of-SVM-For-Spam-Mail-Detection/blob/main/Y_pred.png)
 
 
 ## Result:
