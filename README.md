@@ -49,7 +49,7 @@ accuracy
 ## Data head:
 ![pic 1](https://github.com/vijay21500269/Implementation-of-SVM-For-Spam-Mail-Detection/blob/main/Data%20head.png)
 ## Data information:
-![pic 2]()
+![pic 2](https://github.com/vijay21500269/Implementation-of-SVM-For-Spam-Mail-Detection/blob/main/data%20info.png)
 
 
 ## Result:
